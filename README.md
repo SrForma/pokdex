@@ -1,10 +1,7 @@
 # Pokdex - Projeto web.
 
 
-Nesse projeto foi usado:
-    Flask  
-    Jinja2
-    Pycharm
+Nesse projeto usou as bibliotecas :Flask e Jinja2.
 
 
    
